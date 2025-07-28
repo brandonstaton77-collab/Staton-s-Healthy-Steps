@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    width: 100%;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+#fact-container {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    max-width: 600px;
+    text-align: center;
+}
